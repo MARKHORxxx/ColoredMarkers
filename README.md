@@ -34,11 +34,6 @@ Each marker is composed of:
 2. Open `index.html` in any modern browser.
 3. Enjoy the colorful markers!
 
-## 📸 Screenshot
-
-![Marker Screenshot](https://via.placeholder.com/800x200.png?text=CSS+Markers+Preview)
-
-> *(Add your actual screenshot here if available)*
 
 ## 🧠 What You’ll Learn
 
